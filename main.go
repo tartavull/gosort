@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/tartavull/hello/sort"
+	"github.com/tartavull/gosort/sort"
 )
 
 func copy_slice(original []int) []int {
